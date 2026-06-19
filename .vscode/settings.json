@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "unity-collab-template.sln"
+    "dotnet.defaultSolution": "murder-and-love.sln"
 }
